@@ -35,7 +35,7 @@ This is a **Flask-based Value Converter** that allows users to convert various u
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/DiyaWalvekar/Value-converter.git
+git clone https://github.com/DiyaWalvekar/ValueConverter.git
 cd value-converter
 ```
 
